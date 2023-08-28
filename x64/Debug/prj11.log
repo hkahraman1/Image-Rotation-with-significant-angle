@@ -1,0 +1,13 @@
+﻿  prj11.cpp
+C:\Users\htkah\Desktop\prj11\prj11\prj11.cpp(14,46): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\htkah\Desktop\prj11\prj11\prj11.cpp(14,30): warning C4244: 'argument': conversion from 'int' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\htkah\Desktop\prj11\prj11\prj11.cpp(20,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  prj11.vcxproj -> C:\Users\htkah\Desktop\prj11\x64\Debug\prj11.exe
